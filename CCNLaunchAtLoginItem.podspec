@@ -1,7 +1,8 @@
 Pod::Spec.new do |s|
   s.name                  = 'CCNLaunchAtLoginItem'
   s.version               = '0.1.0'
-  s.summary               = 'An Objective-C class that encapsulates the functionality for launching a Mac application automatic on login, presented in a very simple interface.'
+  s.summary               = 'Objective-C class for handling "launch at login".'
+  s.description               = 'An Objective-C class that encapsulates the functionality for launching a Mac application automatic on login, presented in a very simple interface.'
   s.homepage              = 'https://github.com/phranck/CCNLaunchAtLoginItem'
   s.author                = { 'Frank Gregor' => 'phranck@cocoanaut.com' }
   s.source                = { :git => 'https://github.com/phranck/CCNLaunchAtLoginItem.git', :tag => s.version.to_s }

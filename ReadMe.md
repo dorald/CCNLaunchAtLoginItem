@@ -6,6 +6,8 @@
 
 `CCNLaunchAtLoginItem` is a Objective-C class that encapsulates the functionality for launching a Mac application automatic on login, presented in a very simple interface.
 
+**NOTE: THIS PIECE OF CODE DOESN'T WORK WITH SANDBOXED APPLICATIONS!**
+
 
 ## Integration
 
